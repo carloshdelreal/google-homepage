@@ -1,0 +1,1 @@
+This is a project that simulate the Google's Home page

@@ -1,0 +1,53 @@
+    .container{
+    text-align:center;
+    height: 90vh;
+}
+
+.imageitem{
+    position: relative;
+    top:40%;
+
+}
+
+* {box-sizing: border-box;}
+
+/* Style the input container */
+.input-container {
+    display: flex;
+    width: 100%;
+}
+.input-field{
+    display: inline-block;
+}
+
+/* Style the form icons */
+.icon {
+  padding: 10px;
+  background: rgb(203, 203, 204);
+  color: white;
+  min-width: 50px;
+  text-align: center;
+}
+/* Style the input fields */
+.input-field {
+    width: 75%;
+    padding: 10px;
+    outline: none;
+  }
+
+form{
+    width: 70%;
+    display: inline-block;
+    text-align: center;
+    margin: auto;
+}
+
+button{
+    background-color:  rgb(233, 233, 233);
+    padding: 8px;
+    box-shadow: none;
+    outline: none;
+    border-width: none;
+    border-style: none;
+    border-radius: 6px;
+}
